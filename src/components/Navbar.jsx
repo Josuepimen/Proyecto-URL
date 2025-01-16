@@ -11,7 +11,7 @@ function Navbar() {
 
   return (
     <nav className="flex justify-between items-center p-4 text-zinc-400 overflow-hidden">
-      <div className=''>
+      <div>
         <img src="/src/images/logo.svg" alt="logo" />
       </div>
       <div className="md:hidden">
